@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <>
       <Typography variant="h4" color="initial">
-        Welcome
+        Welcome mail box
       </Typography>
     </>
   );

@@ -73,7 +73,7 @@ const SideBar = () => {
             >
               Mail Box Client <br />
               <Typography variant="caption" color="white">
-                By Basantraj Shakti
+                Arsh
               </Typography>
             </Typography>
           </ListItem>

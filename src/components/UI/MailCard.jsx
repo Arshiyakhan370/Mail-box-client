@@ -62,7 +62,7 @@ const MailCard = (props) => {
       )}
       {!props.recycle && (
         <button className="side-button" onClick={deleteHandler}>
-          Delete
+          Delete 
         </button>
       )}
     </div>
